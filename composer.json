@@ -1,0 +1,14 @@
+{
+    "name": "djalmocruzjr/php-active-record",
+    "description": "Curso PHP Active Record - HXCursos",
+    "type": "project",
+    "authors": [
+        {
+            "name": "djalmocruzjr",
+            "email": "djalmo.cruz@gmail.com"
+        }
+    ],
+    "require": {
+        "php-activerecord/php-activerecord": "^1.1"
+    }
+}
