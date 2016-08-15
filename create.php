@@ -29,5 +29,18 @@ $user = User::create($user2);
 if(isset($user)) {
 	echo "Modo 2 - Registro salvo com sucesso!<hr>";	
 }
+/******************************************************/
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>HXCursos - Curso PHP ActiveRecord</title>
+</head>
+<body>
+	<?php require_once('menu.php'); ?>
+</body>
+</html>
 
 

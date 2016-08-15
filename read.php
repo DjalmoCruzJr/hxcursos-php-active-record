@@ -37,3 +37,14 @@ foreach ($users as $user) {
 }
 echo "<hr>";
 /******************************************************/
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>HXCursos - Curso PHP ActiveRecord</title>
+</head>
+<body>
+	<?php require_once('menu.php'); ?>
+</body>
+</html>

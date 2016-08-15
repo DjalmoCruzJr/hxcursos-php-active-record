@@ -10,5 +10,16 @@ ActiveRecord\Config::initialize(function($cfg) {
  		)
  	);
 });
-
 echo "PHP ActiveRecord configurado com sucesso!<hr>";
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>HXCursos - Curso PHP ActtiveRecord</title>
+</head>
+<body>
+	<?php require_once('menu.php'); ?>
+</body>
+</html>
